@@ -9,3 +9,9 @@ i.world {
 #delete {
   display: inline;
 }
+
+body{
+  background: linear-gradient(to right, red, orange
+    );
+  color: #fff;
+}
